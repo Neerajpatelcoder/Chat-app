@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>183712878079-tb3lk47saua8mokrsr8uusq1im9qdmdd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.183712878079-tb3lk47saua8mokrsr8uusq1im9qdmdd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZyACJe3KWYBvXowEmUWof8tBvCUTbGU0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>183712878079</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.buddychat</string>
+	<key>PROJECT_ID</key>
+	<string>buddychat-58860</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buddychat-58860.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:183712878079:ios:6882019041d70b8c362bca</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "183712878079",
+    "project_id": "buddychat-58860",
+    "storage_bucket": "buddychat-58860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183712878079:android:18b9eccabd3069b6362bca",
+        "android_client_info": {
+          "package_name": "com.example.buddychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183712878079-9e2the6sb1o7ldiusaa2jtk6g4lnfgq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddychat",
+            "certificate_hash": "da5b6de88f23f39f83ee21b97cea1818468779bb"
+          }
+        },
+        {
+          "client_id": "183712878079-jnnn066brhaji0au6kjv5coif8niesd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBTphWzifNfnEQ5kO7pj7Fp64gEGLVH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183712878079-jnnn066brhaji0au6kjv5coif8niesd4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183712878079-np982714ian2rr1u9obvbvlpkde96q2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappMessenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
